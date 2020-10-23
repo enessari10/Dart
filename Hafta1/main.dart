@@ -3,10 +3,12 @@ import 'dart:ffi';
 void main(List<String> args) {
   // YORUM SATIRI YAZMAK İSTİYORUM
 
+//Ekrana mesaj yazdırma kodu tek tırnak ve çift tırnak kullanımı
   print("Merhaba Dart");
   print('Merhaba bu yazı tek tırnak içerisinde yazılmıştır.');
   print("Enes'in kalemi");
 
+//Matematiksel işlemlerin nasıl yapıldığını gösteren kod
   print("5+9");
   print(5 * 9);
 
@@ -14,14 +16,17 @@ void main(List<String> args) {
     - int
     -double*/
 
+//Değişken tanımlama int ve double türünde
   int Sayi = 10;
   double DoubleSayi = 2.45;
 
+//Tanımlanan değişkeni interpolitian ile ekrana yazdırma
   print("Double Sayımız :$DoubleSayi");
   print("Tam Sayı : $Sayi");
 
   print(" selam " + "merhaba");
 
+//String türünde değişken tanımlama
   String isim = 'Enes';
   String soyisim = "SARI";
   String egitim = 'Dart\'ın Kullanımı';
