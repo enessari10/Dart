@@ -1,0 +1,16 @@
+SORU 1
+5 Tane int türünde sayının ortalamasını bulduran programı yazın. (KOLAY)
+
+SORU 2
+Kenarlarını girdiğiniz üçgenin ikizkenar mı ? eşkenar mı ? çeşitkenar mı ? olduğunu
+bulan bir program yazınız (ORTA)
+
+SORU 3
+Kendi adınızı tüm döngü ifadeleri ile (for-while-dowhile) 5 defa ekrana yazdıran programı yazınız. (KOLAY)
+
+SORU 4
+1'den 100'e kadar olan sayıların 10 ile tam bölünenleri ekrana yazdıran programı yazınız.(ZOR)
+
+SORU 5
+Vize ve final notlarını aldığınız öğrencinin dersi geçip geçmediğini söyleyen bir program 
+yazınız. (%40 VİZE, %60 Final)(ZOR)
