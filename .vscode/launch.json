@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart & Flutter",
-            "program":"Hafta1/Hello_World.dart",
+            "program":"Hafta2/switch-case.dart",
             "request": "launch",
             "type": "dart"
         }
